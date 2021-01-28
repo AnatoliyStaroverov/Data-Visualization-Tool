@@ -3,3 +3,8 @@ string str = "hello";
 
 1. str.Length
 2. str.Empty 
+3. ToUpper()
+4. ToLower()
+5. Concat(str1, str2)
+6. IndexOf("e")             // returns index of "e"
+7. Substring("l")           // returns new string "llo"

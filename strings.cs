@@ -58,7 +58,6 @@ namespace Data_Visualization_Tool{
             str_stack.Push(_currentStr[i]);
         }
 
-        
         for(int i = 0 ; i< _currentStr.Length ; i++){
             if(str_stack.Peek() == this.CurrentStr[i]){
                 str_stack.Pop();
@@ -66,13 +65,42 @@ namespace Data_Visualization_Tool{
             
         }
         
-        if(str_stack.Count == 0){
+        if(str_stack.Count == 0 && this._currentStr.Length == 0){
             return true;
         }
         else{
             return false;
         }
     }
- }
 
-}
+ 
+    /* return minimal number of deletions need from both string to create an anagram.
+
+    *  example : 
+        str1 = "hheelloobabe"    // Anagram made is "hhebee"
+        str2 = "hhebzakereed"    // total deletions: (12 - 6) + (12 - 6) = 12 deletions
+    * 
+    */
+    public int MakeAnagrams(string str1, string str2){
+
+     int del_count = 0;
+     int[] positionCounter = 0;
+
+    // empty string condition for either string.
+     if(str1.Length <1 || str2.Length<1){
+         return del_count;
+     }
+
+     // string 2 is larger condition 
+     else if(str1.Length <=str2.Length ){
+        for( int i = 0 ; i <str1.Length; i++ ){
+            
+        }
+     }
+
+
+    }
+
+
+ } // end of class
+} 

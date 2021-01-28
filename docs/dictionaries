@@ -1,0 +1,16 @@
+IDictionary<int, string> numberNames = new Dictionary<int, string>()
+// <key, value>
+
+// cant have duplicate keys
+
+
+1. Add(1,"one")
+2. numerNames.key 
+3. numberNames.value
+4. numberName[1]  // prints value of key of 1
+5. ContainsKey(2)  // return bool
+6. ElementAt(i).key
+7. ElementAt(i).value
+8. Remove("key")
+9. Clear()
+
