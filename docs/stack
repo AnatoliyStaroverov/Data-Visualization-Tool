@@ -1,0 +1,10 @@
+// last in first out   LIFO
+
+ 1. push()
+ 2. pop()
+ 3. isEmpty()
+ 4. peek() // views top element on stack
+ 5. Count
+ 6. Clear()
+ 7. ToArray()
+ 8. ToString()

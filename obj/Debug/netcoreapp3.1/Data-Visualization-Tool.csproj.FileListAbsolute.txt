@@ -1,0 +1,13 @@
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.exe
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.deps.json
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.runtimeconfig.json
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.runtimeconfig.dev.json
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.dll
+C:\Users\anato\Desktop\Data-Visualization-Tool\bin\Debug\netcoreapp3.1\Data-Visualization-Tool.pdb
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.csprojAssemblyReference.cache
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.AssemblyInfoInputs.cache
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.AssemblyInfo.cs
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.csproj.CoreCompileInputs.cache
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.dll
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.pdb
+C:\Users\anato\Desktop\Data-Visualization-Tool\obj\Debug\netcoreapp3.1\Data-Visualization-Tool.genruntimeconfig.cache

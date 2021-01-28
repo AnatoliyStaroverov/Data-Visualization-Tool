@@ -1,0 +1,5 @@
+
+string str = "hello";
+
+1. str.Length
+2. str.Empty 
